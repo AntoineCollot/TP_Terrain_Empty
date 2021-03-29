@@ -3,7 +3,7 @@
 
 L'objectif de ce TP est de créer le système ci-dessus.  Lors d'un appuis sur espace, un nouveau terrain est généré. Pour réaliser cela, il va falloir générer un mesh et lire une heightmap.
 
-![alt text](Images\Heightmap.png "Heightmap")
+![alt text](Images/Heightmap.png "Heightmap")
 
 Une heightmap est une texture en noir et blanc. Le niveau de gris d'un pixel correspond à l'altitude en ce point. Le noir signifie que le point est bas, et le blanc qu'il est haut.
 
