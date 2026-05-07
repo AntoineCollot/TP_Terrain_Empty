@@ -45,4 +45,12 @@ On travaille dans le script __*MorphTerrain*__. Il doit gèrer une animation de 
 **Note :** Pour obtenir une animation plus agréable, on peut utiliser *Curves.QuadEasyInOut()* à la place d'une éventuelle utilisation de *Mathf.Lerp()* (exactement de la même manière).
 
 2. Rendre le nouveau *localscale.y* aléatoire après chaque appui de la touche espace (l'objet change de taille aléatoirement).
-3. Au moment ou le localscale.y est le plus petit, générer une nouvelle heightmap à afficher (pour changer la forme du terrain). 
+3. Au moment ou le localscale.y est le plus petit, générer une nouvelle heightmap à afficher (pour changer la forme du terrain).
+
+# Rendu
+
+* Par mail a antoine.collot@live.com
+* Sujet de mail TPTerrain2026_GroupeX, en remplacant X par le numero du groupe
+* Corps de mail simple, recapiltuler les noms des membres du groupe.
+* Uploader un *zip* contenant les dossiers `Assets`, `ProjectSettings` et `Packages` dans un drive ou sur wetransfer (ou équivalent).
+* Inclure une courte vidéo/gif demontrant l'état du projet.
